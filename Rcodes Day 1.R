@@ -2,7 +2,7 @@
 plot(rnorm(50))
 
 #### SLIDE 9 Math Operation
-
+###comment 2+2 =4
 2+2
 5-2
 7*3
